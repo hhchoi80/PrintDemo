@@ -1,5 +1,5 @@
 # 변수 선언
-name = "Hyun-Ho Choi"
+name = "alskdfjalsdkfjasdlkfjsdal"
 age = 45
 score = 95.5
 
